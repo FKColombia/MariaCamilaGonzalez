@@ -7,7 +7,7 @@ ORG:Fresenius Kabi Colombia;
 TITLE:Gerente de Marketing
 EMAIL;type=INTERNET;type=WORK;type=pref:mariacamila.gonzalez@fresenius-kabi.com
 TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c-30, Piso 40;;;Bogotá;Colombia
+item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c-20, Piso 40;;;Bogotá;Colombia
 item1.X-ABADR:sg
 item2.URL;type=pref:https://www.fresenius-kabi.com/co/
 item2.X-ABLabel:_$!<HomePage>!$_
